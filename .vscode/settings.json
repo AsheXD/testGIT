@@ -1,0 +1,18 @@
+{
+  "liveServer.settings.port": 5501,
+  "liveSassCompile.settings.autoprefix": [],
+  "liveSassCompile.settings.forceBaseDirectory":  ,
+  "liveSassCompile.settings.includeItems": [],
+  "liveSassCompile.settings.useNewCompiler": false,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.mount": [],
+  "liveSassCompile.settings.formats": [
+    
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": null,
+      "savePathReplacementPairs": null
+    }
+  ]
+}
